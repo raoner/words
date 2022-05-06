@@ -1,0 +1,1 @@
+word : mean of word
